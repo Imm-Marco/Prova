@@ -1,0 +1,17 @@
+Prova Finale
+Costruisci una Todo List.
+Utilizza un array con un massimo di 10 elementi.
+Proponi all'utente un menu nel quale verrà indicato cosa fare:
+
+----Menu----
+1. Inserisci nuovo todo
+2. Elimina todo
+3. Stampa intera lista
+4. Chiudi Programma
+------------
+
+1. Inserisci: aggiungi all'array un nuovo TODO
+2. Rimuovi un elemento dell'array sostituendolo con la stringa "vuoto" (by id dell'array)
+3. stampa tutto
+
+ATT: utilizza dei metodi ausiliari; utilizza una classe ToDo(String descrizione, String data)
